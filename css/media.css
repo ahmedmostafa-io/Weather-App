@@ -1,0 +1,32 @@
+@media screen and (min-width: 900px) {
+  .nav-item a {
+    border: 2px solid transparent;
+    border-radius: 30px;
+    transition: 0.3s ease;
+    font-weight: 400;
+    background: #1e202b;
+  }
+  .nav-item a:hover {
+    border-color: #009ad8;
+    color: #009ad8 !important;
+    padding: 5px 40px;
+    background: #1e202b;
+  }
+  .nav-item a.active {
+    border-color: #009ad8;
+    color: #009ad8 !important;
+    background: #1e202b;
+  }
+  .nav-item {
+    background: #1e202b;
+  }
+  .weatherTable {
+    margin-inline: 0px;
+  }
+  .icony {
+    margin-left: 50px;
+  }
+  .inputCtrl {
+    width: 48%;
+  }
+}
