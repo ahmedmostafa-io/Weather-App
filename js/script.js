@@ -96,7 +96,7 @@ navHome.addEventListener("click", showHome);
 // & app functions
 async function map(data) {
   let response = await fetch(
-    `https://api.weatherapi.com/v1/forecast.json?key=b1f6e0b300894234b88144807252504&q=${data}&days=3`
+    `https://api.weatherapi.com/v1/forecast.json?key=a9748d0dae464f85b9c183319252205&q=${data}&days=3`
   );
   if (response.ok && 400 != response.status) {
     let data = await response.json();
