@@ -3,6 +3,11 @@
 A modern and responsive weather web application that allows users to search for any city and view the current weather conditions along with a 3-day forecast.
 
 ---
+## ⚡ Live Demo
+
+Check out the live version here: [Weather-App](https://ahmedmostafa-io.github.io/Weather-App/)
+
+---
 
 ## 🚀 Features
 
